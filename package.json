@@ -11,6 +11,10 @@
         "latex"
     ],
     "main": "lib/index.js",
+    "files": [
+        "lib/**",
+        "*.schema.json"
+    ],
     "scripts": {
         "prettier": "prettier --check .",
         "prettier-fix": "prettier --write ."
