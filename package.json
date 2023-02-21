@@ -1,6 +1,6 @@
 {
     "name": "eslint-plugin-yaxm",
-    "version": "1.0.0-beta.0",
+    "version": "1.0.0-beta.1",
     "description": "ESLint plugin for YAXM",
     "keywords": [
         "eslint",
@@ -29,7 +29,7 @@
         "prettier": "^2.7.1"
     },
     "dependencies": {
-        "@md-to-latex/converter": "^2.0.0-beta.4",
+        "@md-to-latex/converter": "^2.0.0-beta.13",
         "js-yaml": "^4.1.0"
     },
     "engines": {
